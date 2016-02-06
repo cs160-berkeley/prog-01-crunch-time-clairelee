@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CrunchTime</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_reps">Enter number</string>
+    <string name="edit_type">Reps or Mins</string>
+    <string name="edit_text2">calories!</string>
+    <string name="Result">How many calories did I burn?</string>
+    <string name="weight">My Weight:</string>
+    <string name="convert2">Convert</string>
+    <string name="done">Equivalent Exercises</string>
+
+    <string-array name="exercise">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Leg Lifts</item>
+        <item>Planks</item>
+        <item>Jumping Jacks</item>
+        <item>Pullups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair Climbing</item>
+    </string-array>
+</resources>
