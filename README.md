@@ -4,7 +4,7 @@ This is a simple calorie converter. Users can enter their weight, and the amount
 
 ## Authors
 
-Claire Lee (lee.claire@berkeley.edu](mailto:lee.claire@berkeley.edu))
+Claire Lee ([lee.claire@berkeley.edu](mailto:lee.claire@berkeley.edu))
 
 ## Demo Video
 
